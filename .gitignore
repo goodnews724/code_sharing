@@ -1,0 +1,35 @@
+# 임시 파일
+_tmp_*
+
+# 캐시
+__pycache__/
+.cache_*/
+*.pyc
+
+# 다운로드 임시폴더
+drive-download-*/
+
+# 환경변수 및 인증정보
+.env
+.env/
+cookies.txt
+
+# Node.js
+node_modules/
+
+# IDE / 에디터 설정
+.vscode/
+.config/
+
+# Claude Code 설정
+.claude/
+
+# Python 가상환경
+.env/
+
+# SM 자동화 로그 및 디버그 스크린샷
+sm_auto_log.txt
+06_SM프로그램자동화/03_SM프로그램화면캡쳐/debug/
+
+# 기타
+nul
